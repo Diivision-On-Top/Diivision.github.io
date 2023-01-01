@@ -6,3 +6,7 @@ body[data-appearance="midnight"] {
     --secondary-color: dodgerblue;
     background: #121212;
 }
+
+html {
+    cursor: url(res/Cursor.png), default;
+}
