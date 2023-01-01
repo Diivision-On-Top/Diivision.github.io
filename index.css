@@ -7,6 +7,13 @@ body[data-appearance="midnight"] {
     background: #121212;
 }
 
-html {
-    cursor: url(https://spng.pngfind.com/pngs/s/102-1027597_middle-finger-cursor-png-transparent-png.png), default;
+.container-1 {
+    width: 100%;
+    height: 100vh;
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
+    background-image: url("https://images.unsplash.com/photo-1529938762753-914127886a7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80");
+    background-position: center;
+    background-size: cover;
+    position: relative;
 }
