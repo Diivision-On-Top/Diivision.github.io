@@ -2,3 +2,14 @@
   cursor: url('https://www.picgifs.com/graphics/q/question-marks/graphics-question-marks-331528.gif'), crosshair;
     background-image: url('doggy.gif');
 }
+
+
+
+
+body[data-appearance="midnight"] {
+    --border-color:rgb(255, 255, 255, .2);
+    --header-background: #181818;
+    --text-color: #FFF;
+    --secondary-color: dodgerblue;
+    background: #121212;
+}
